@@ -1,2 +1,7 @@
-### Socket.io TypeScript
+# Socket.io TypeScript
 
+### Run Command
+
+~~~
+  npm run start
+~~~
